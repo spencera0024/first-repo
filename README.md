@@ -1,2 +1,3 @@
 # first-repo
-Web Apps Assignment 1 
+Spencer Anderson
+I am left-handed
